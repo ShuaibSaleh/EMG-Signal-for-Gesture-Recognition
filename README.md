@@ -114,11 +114,11 @@ we used the following three classifiers to construct our model:
 <div id='team'>
   
 ### Submitted by 3rd year SBME2024 students💉:
-* [Aya Amr](https://github.com/ayaamrr) 
-* [Sara Ayman](https://github.com/SaraElwatany) 
 * [Shuaib Abdelsalam](https://github.com/ShuaibSaleh)
 * [Abdelrahman Saeed](https://github.com/Abdelrahman-Yousef) 
-* [Mahmoud Rabea](https://github.com/MahmoudRabea13) 
+* [Mahmoud Rabea](https://github.com/MahmoudRabea13)
+* [Aya Amr](https://github.com/ayaamrr) 
+* [Sara Ayman](https://github.com/SaraElwatany) 
 </div>
 
 <p align="right"><a href="#top">back to top</a></p>
